@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.exe.config
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.exe
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.pdb
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.exe
+c:\users\user\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.pdb
